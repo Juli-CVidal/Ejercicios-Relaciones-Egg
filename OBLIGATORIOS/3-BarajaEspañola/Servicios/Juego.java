@@ -79,7 +79,7 @@ public class Juego {
                     ServBar.mostrarMonton(cartasUsadas);
                     break;
 
-                case 6:
+                case 6: //mostrar cartas restantes en la baraja
                     if (cartasDisponibles.isEmpty()) {
                         System.out.println(Constantes.BARAJA_VACIA);
                         break;
