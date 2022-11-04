@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="1-PerrosAdopcion/src"/>
+	<classpathentry kind="src" path="2-OrganizacionCine/src"/>
+	<classpathentry kind="src" path="3-LaTerceraSeguros/src"/>
+	<classpathentry kind="src" path="4-SistemaVotacionEgg/src"/>
+	<classpathentry kind="lib" path="1-PerrosAdopcion/dist/1-PerrosAdopcion.jar"/>
+	<classpathentry kind="output" path="1-PerrosAdopcion/build/classes"/>
+</classpath>
